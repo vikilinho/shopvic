@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146344720394",
+    "project_id": "myshop-e5294",
+    "storage_bucket": "myshop-e5294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146344720394:android:af2f53947f22280690c7f3",
+        "android_client_info": {
+          "package_name": "ai.freshflow.fluttertakehometest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146344720394-lf6kd18f68rnap9u1d6ojch8ng2j751i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe4DgdT2MAy0MI1ZLANtSy3coKnUpCdUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146344720394-lf6kd18f68rnap9u1d6ojch8ng2j751i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
